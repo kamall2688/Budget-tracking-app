@@ -15,8 +15,6 @@ A lightweight budget tracker that runs entirely in your browser. No accounts, no
 # 🛠️ Tech Stack
 
 - HTML5
-- CSS3
-- Vanilla JavaScript
 - LocalStorage API
 
 No frameworks, build tools, or external dependencies.
