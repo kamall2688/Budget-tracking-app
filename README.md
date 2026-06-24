@@ -1,3 +1,4 @@
+# MADE VIA CLAUDE AI 💥
 # 💰 Ledger — Local-First Budget Tracker
 
 A lightweight budget tracker that runs entirely in your browser. No accounts, no servers, and no setup required. All data is stored locally on your device using localStorage.
